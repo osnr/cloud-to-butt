@@ -1,6 +1,6 @@
 {
 	"manifest_version": 2,
-	"name": "Fix Pokémon",
+	"name": "Fix Pokemon",
 	"version": "1.0",
 	"description": "Replaces 'Pokemon' with 'Pokémon'.",
 	"content_scripts": 

@@ -1,9 +1,9 @@
-Fix Pokémon
+Fix Pokemon
 =============
 
 Chrome extension that replaces occurrences of 'Pokemon' with 'Pokémon'.
 
-[Direct download of crx file](https://github.com/osnr/fix-pok-mon/blob/master/FixPokémon.crx?raw=true)
+[Direct download of crx file](https://github.com/osnr/fix-pokemon/blob/master/FixPokemon.crx?raw=true)
 
 Installation
 ------------
